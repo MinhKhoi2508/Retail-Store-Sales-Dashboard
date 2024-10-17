@@ -8,3 +8,4 @@ Report Data can be sliced by Quarter of Year to show Data of Q1, Q2, Q3, Q4.
 Report Data can also be sliced by State to show sales of any particular State.
 
 It has cards showing Total Amount, Total Profit, Total Quantity of Sale.
+![image](https://github.com/user-attachments/assets/35025ba5-3822-42b8-a541-56c2f9a2e30f)
